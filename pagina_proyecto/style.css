@@ -1,0 +1,54 @@
+/* selector de tipo etiqueta html */
+body{
+   background-color: rgb(28, 29, 29);
+   font-family: serif;
+   color: azure;
+   text-align: center;
+}
+
+h3 {
+    color: rgb(117, 90, 249);
+}
+h1 {
+    background-color: rgb(252, 253, 254);
+    width: 300px dash;
+    padding: 10px;
+    color: rgb(35, 29, 103);
+    text-align: center;
+}
+p{
+    color: azure;
+}
+ul li{
+   list-style: none;
+}
+ ol li {
+    list-style: none;
+ }
+/* selector tipo clase */
+.tarjeta {
+    background-color: rgb(6, 5, 4);
+    border: 2px solid white;
+    padding: 1px;
+    margin: 2%;
+}
+.input {
+    text-align: center;
+}
+
+/* selector tipo id */
+#titulo {    
+   text-align: center;
+    color: rgb(97, 101, 244);
+}
+#tit {
+    color: rgb(115, 115, 207);
+}
+
+#imagen1,
+#imagen2 {
+    width:40%;
+    height:5%;
+    border: 2px solid whitesmoke;
+    padding: 1%;
+}
